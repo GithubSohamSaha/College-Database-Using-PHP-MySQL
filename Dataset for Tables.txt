@@ -1,0 +1,10 @@
+Now the table creation problem is gone, but only for the one table The table is student table, which contains seven columns(One of the column is date but the problem of the data size related date data type variable is solved). But on the other hand, when I'm going to create another table called department, with four consecutive columns there are two problems That I have faced
+1. The data size section is not available after entering the table name and the number of columns. In the case of department table
+
+In the above court, the. data size of the variable date is creating a problem. As we all know that in SQL there is no data size of date data type.
+
+
+
+12, "Debashish Maity", "Sarengabad, BudgeBudge", "Male", '2004-01-01', 0187654321, "gogobass@gmail.com" 
+
+1001, " Fundamentals of Database System 6th edition", "R.Elmasari, S.B. Navathe", ""
